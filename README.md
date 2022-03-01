@@ -1,4 +1,4 @@
 # TodoAppAndroid
-A Todo App developed in room using MVVM
+A Todo App developed in Room using MVVM
 
 youtube demo: https://bit.ly/3p1HQjN
